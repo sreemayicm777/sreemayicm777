@@ -1,17 +1,15 @@
 # 💫 About Me:
 
-<h1 align="center">Hi there, I'm Sreemayi 👋</h1>
-<h3 align="center">A Passionate MERN Stack Developer from India</h3>
+<h1 align="left">Hi there, I'm Sreemayi 👋</h1>
+<h3 align="left">A Passionate MERN Stack Developer</h3>
 
 <br>
 
-- 🔭 I’m currently working on **a full-stack E-commerce platform**
+- 🔭 I’m currently working on **MERN Stack Projects**
 - 🌱 I’m currently learning **GraphQL and Microservices Architecture**
 - 👯 I’m looking to collaborate on **open-source MERN projects**
 - 💬 Ask me about **React, Node.js, Express, MongoDB, or JavaScript**
 - 📫 How to reach me: **sreemayisree123@email.com**
-- ⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes!**
-
 <br>
 
 ## 🚀 Technologies & Tools
@@ -41,14 +39,5 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sreemayi-cm-93a461299/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sreemayisree123@gmail.com) 
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sreemayicm777&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=sreemayicm777&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
