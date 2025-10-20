@@ -1,5 +1,3 @@
-# 💫 About Me:
-
 <h1 align="left">Hi there, I'm Sreemayi 👋</h1>
 <h3 align="left">A Passionate MERN Stack Developer</h3>
 
